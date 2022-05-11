@@ -302,11 +302,7 @@ class FXbatch:
 # 3. Write Help file and sort menu
 # 4. Write About file and sort out content
 # 5. Create windows exe and test
-# 6. Release FXbatch v2.0 windows release
-# 7. Video tutorials
-# 8. Website with info on coding
-# 9. Paypal/Payment/Patreon support pages
-# *****************************************************************************************************************************
+
 
     # Callback from GUI - hieght update. 
     def h_update(self, event=None):
